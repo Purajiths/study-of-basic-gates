@@ -80,9 +80,18 @@ xor(f_xor,a,b);
 xnor(f_xnor,a,b);
 endmodule
 ```
+
+
+
  
 **Logic symbol & Truthtable**
 ![image](https://github.com/user-attachments/assets/5e29894f-5862-4e29-8881-21b67c32f281)
+
+
+
+
+
+
 
 
 **RTL realization :** 
@@ -93,8 +102,13 @@ endmodule
 
 
 
+
+
+
 **Output:**
 ![image](https://github.com/user-attachments/assets/af43cd37-fb08-4c3a-b610-013e32d09246)
+
+
 
 
 
