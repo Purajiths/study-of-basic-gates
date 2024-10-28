@@ -90,4 +90,4 @@ endmodule
 ![image](https://github.com/user-attachments/assets/a62e79ea-6309-4d3a-9671-87f39225dda8)
 
 **Result:**
-Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
+Thus the different basic logic gates are studied and the truth table for different logic gates are verified.
